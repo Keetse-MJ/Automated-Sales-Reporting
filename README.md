@@ -33,7 +33,7 @@ The dataset contains sales information including:
 
 ## Project Files
 
-* `sales.sql` - Database, sales table and sample data
+* `automated_sales_reporting.sql` - Database, sales table and sample data
 * `01_temporary_tables.sql` - Temporary table practice
 * `02_stored_procedures.sql` - Stored procedure practice
 * `03_triggers.sql` - Trigger practice
